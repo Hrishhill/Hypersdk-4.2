@@ -1,9 +1,10 @@
 # Customized Subnet Using HperSDK
 This Project is designed to facilitate the creation, management, and interaction of tokens within a virtual machine environment.
 ## Features
-* **Token Creation:** Create new tokens easily.
-* **Token Management:** Manage existing tokens, including transfers and balances.
-* **Interoperability:** Designed to work seamlessly with other virtual machine environments.
+* **Token Creation:** Effortlessly create new tokens.
+* **Token Management:** Manage your tokens with ease, including handling transfers and checking balances.
+* **Interoperability:** Designed for seamless integration with other virtual machine environments.
+
 ## Installation
 1. Clone the repository:
    ```
@@ -154,6 +155,12 @@ perform import on destination (y/n): y
 22u9zvTa8cRX7nork3koubETsKDn43ydaVEZZWMGcTDerucq4b to: token1rvzhmceq997zntgvravfagsks6w0ryud3rylh4cdvayry0dl97nsjzf3yp source assetID: TKN output assetID: 2rST7KDPjRvDxypr6Q4SwfAwdApLwKXuukrSc42jA3dQDgo7jx value: 10000000000 reward: 10000000000 return: false
 ✔ switch default chain to destination (y/n): y
 ```
+## Loom Video Explanation 
+https://www.loom.com/share/8687e75116e348fcb3a486c44548d0de?sid=72e67cf8-1440-47a3-af6b-9d0c9c83007c
+
+
+
+
 # License
 This project is licensed under the MIT License.
 
