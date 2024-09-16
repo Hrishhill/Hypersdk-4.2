@@ -156,7 +156,7 @@ perform import on destination (y/n): y
 ✔ switch default chain to destination (y/n): y
 ```
 ## Loom Video Explanation 
-https://www.loom.com/share/8687e75116e348fcb3a486c44548d0de?sid=72e67cf8-1440-47a3-af6b-9d0c9c83007c
+https://www.loom.com/share/d55ccb76ee5b4bc3a74bbf97f8aae5cf?sid=6239daa9-c625-445a-9ba9-394f422d09c9
 
 
 
